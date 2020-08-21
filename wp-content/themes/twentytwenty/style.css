@@ -6564,6 +6564,7 @@ a.to-the-top > * {
 }
 .drop-button {
     font-family: "Inter var";
+    -webkit-appearance: none;
     background-color: #f20043 !important;
     border-radius: 6px;
     border: none;
